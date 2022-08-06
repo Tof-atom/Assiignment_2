@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+}
+
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
+
+.intro{
+    width: 100%;
+    height: 100vh;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+header{
+    background-color: #ff4c66;
+    width:100%;
+    padding-top: 30px;
+
+}
+
+
+.navbar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.logo{
+    color: white;
+    font-family: Corbel;
+    font-weight: bold;
+}
+.nav a{
+    color: white;
+}
+
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    overflow: hidden;
+}
+
+.main h1{
+    font-family: "Times New Roman";
+}
+
+.download{
+    width: 50%;
+    color: white;
+    margin-top: 7vh;
+}
+
+.cont{
+    margin: auto;
+}
+
+
+.iphone-img{
+    margin-top: 7vh;
+    width: 50%;
+}
+
+.iphone{
+    width: 70%;
+}
+
+.iphone-img img{
+    transform: rotate(25deg);
+    width:70%;
+}
+
+.features{
+    margin-top: 80px;
+}
+
+.container-fluid{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.features p{
+    color: grey;
+}
+.features i{
+    color: #f88477;
+}
+
+.features h4{
+    font-family: "Times New Roman";
+}
+
+.pricing{
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+
+.represent {
+    width: 100%;
+    height: 60vh;
+    background-color: #f88477;
+    color: white;
+}
+
+.feedback{
+    height: 65%;
+    font-family: "Times New Roman";
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.dog-img{
+    border-radius: 50%;
+    display: inline;
+    width: 10%;
+    margin-right: 10px;
+}
+.feedback p{
+    display: initial;
+    font-family: Calibri;
+    font-style: italic;
+}
+
+.col-6{
+    width: 80%;
+}
+
+.ver-center{
+    display: inline-block;
+    width: 50%;
+    margin: 140px auto;
+}
+
+.brand-list{
+    margin: 0 auto;
+    width: 65%;
+}
+
+.brand-list img {
+    width: 20%;
+    margin: 10px 0;
+}
+
+.plan h1, .plan p {
+    text-align: center;
+}
+
+.download-page{
+    height: 100Vh;
+    margin-top: 60px;
+}
+
+.download-block{
+    background-color: #ff4c66;
+    width:100%;
+    padding-top: 30px;
+    height: 50vh;
+}
+
+
+.text{
+    width: 70%;
+    color: white;
+    margin: 30px auto;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+.choice{
+    width: 70%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copy-right {
+    color:grey;
+    margin-top: 20px;
+}
